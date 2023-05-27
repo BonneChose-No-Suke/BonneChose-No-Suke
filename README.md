@@ -1,4 +1,9 @@
 ### Hi there 👋
+### My Name Is Bonne
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BonneChose-No-Suke&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BonneChose-No-Suke)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **BonneChose-No-Suke/BonneChose-No-Suke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
